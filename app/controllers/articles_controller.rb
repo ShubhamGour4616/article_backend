@@ -8,6 +8,8 @@ class ArticlesController < ApplicationController
     render json: @articles
   end
 
+  # updated method
+
   # GET /articles/1
   def show
     render json: @article

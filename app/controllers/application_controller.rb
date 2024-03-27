@@ -7,4 +7,5 @@ class ApplicationController < ActionController::API
 
   def n3
   end
+  
 end
