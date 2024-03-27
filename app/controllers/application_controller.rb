@@ -4,4 +4,7 @@ class ApplicationController < ActionController::API
 
   def n2
   end
+
+  def n3
+  end
 end
